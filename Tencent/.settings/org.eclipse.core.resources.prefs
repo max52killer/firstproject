@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//Tencent/DBUtil.py=utf-8
+encoding//Tencent/items.py=utf-8
+encoding//Tencent/pipelines.py=utf-8
+encoding//Tencent/settings.py=utf-8
+encoding//Tencent/spiders/tencent.py=utf-8
+encoding//src/cn/test/JsonTest.py=utf-8
+encoding//src/cn/util/FileToSql.py=GBK
+encoding//src/cn/util/sqlTest.py=utf-8
+encoding/<project>=UTF-8
